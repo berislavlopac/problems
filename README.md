@@ -1,7 +1,7 @@
 Problem Details
 ===============
 
-`problems` is a Python implementation of RFC 7870 "Problem Details for HTTP APIs". Its purpose is to manage a set of known error types, as well to simplify construction of HTTP response payloads.
+`problems` is a Python implementation of [RFC 7870](https://tools.ietf.org/html/rfc7807) "Problem Details for HTTP APIs". Its purpose is to manage a set of known error types, as well to simplify construction of HTTP response payloads.
 
 Problem Types
 -------------
